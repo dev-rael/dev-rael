@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on exciting react projects.
-- 📫 You can reach me out on my Linkedin: https://www.linkedin.com/in/rael-delagua-5066aa247/
+- 📫 You can reach me on my Linkedin: https://www.linkedin.com/in/rael-delagua-5066aa247/
 - Happy coding🙂!
 
 <!---
